@@ -7,5 +7,87 @@
             "All images loaded in calculator18/test-manifest project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://calculator18.github.io/test-manifest/images/gondola/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "gondola"
+                ]
+            },
+            "height": 2016,
+            "width": 1512,
+            "items": [
+                {
+                    "id": "https://calculator18.github.io/test-manifest/images/gondola/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://calculator18.github.io/test-manifest/images/gondola/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://calculator18.github.io/test-manifest/images/gondola/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 48,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 95,
+                                                "height": 126
+                                            },
+                                            {
+                                                "width": 189,
+                                                "height": 252
+                                            },
+                                            {
+                                                "width": 378,
+                                                "height": 504
+                                            },
+                                            {
+                                                "width": 756,
+                                                "height": 1008
+                                            },
+                                            {
+                                                "width": 1512,
+                                                "height": 2016
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1512,
+                                        "@id": "https://calculator18.github.io/test-manifest/images/gondola",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2016,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://calculator18.github.io/test-manifest/images/gondola/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
