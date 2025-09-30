@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://calculator18.github.io/test-manifest/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in calculator18/test-manifest project"
+        ]
+    },
+    "items": []
+}
