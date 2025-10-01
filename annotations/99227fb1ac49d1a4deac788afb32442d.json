@@ -1,0 +1,80 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "iowa",
+      "@type" : "oa:Tag",
+      "chars" : "iowa"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Nowadays this land is no longer Sioux land...",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Nowadays this land is no longer Sioux land...</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/117415343777487593262",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-10-01T21:13:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759353181873",
+    "dcterms:modified" : "2025-10-01T21:13:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://calculator18.github.io/test-manifest/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2504,4061,1908,1315"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2504.05957,4060.6383h954.15745v0h954.15745v657.27234v657.27234h-954.15745h-954.15745v-657.27234z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6979d859-cf15-4764-8413-07ee6ce9fd6e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://73c8ddf4-de08-4bbd-a2b3-0b00f955403a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "uiowa",
+      "@type" : "oa:Tag",
+      "chars" : "uiowa"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "This is Johnson County, where the University of Iowa is located.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This is Johnson County, where the University of Iowa is located.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/117415343777487593262",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-10-01T21:13:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759353211950",
+    "dcterms:modified" : "2025-10-01T21:13:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://calculator18.github.io/test-manifest/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5391,7181,806,786"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5390.53901,7180.81739h402.89125v0h402.89125v392.84397v392.84397h-402.89125h-402.89125v-392.84397z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_826f3e79-58c7-4db9-8717-099899374ec1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://73c8ddf4-de08-4bbd-a2b3-0b00f955403a"
+    } ]
+  } ],
+  "@id" : "https://calculator18.github.io/test-manifest/annotations/99227fb1ac49d1a4deac788afb32442d.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
