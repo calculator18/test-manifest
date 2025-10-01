@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://calculator18.github.io/test-manifest/annotations/99227fb1ac49d1a4deac788afb32442d.json" ],
+  "@id" : "https://calculator18.github.io/test-manifest/annotations/collection.json",
+  "label" : "All annotations loaded in calculator18/test-manifest project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
