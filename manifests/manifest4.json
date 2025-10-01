@@ -3,6 +3,11 @@
   "@id" : "https://calculator18.github.io/test-manifest/manifests/manifest4.json",
   "@type" : "sc:Manifest",
   "label" : "This is Meghan's map manifest!",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/117415343777487593262/c72b7f943a12965b23df0dd52ca583c5/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "This is a collection of photographs from the Iowa Digital Library.",
@@ -46,6 +51,11 @@
           "width" : 8856
         },
         "on" : "http://73c8ddf4-de08-4bbd-a2b3-0b00f955403a"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://calculator18.github.io/test-manifest/annotations/99227fb1ac49d1a4deac788afb32442d.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
