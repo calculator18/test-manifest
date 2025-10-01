@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://calculator18.github.io/test-manifest/manifests/manifest2.json",
     "label" : "This is Meghan's manifest!"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://calculator18.github.io/test-manifest/manifests/manifest3.json",
+    "label" : "[Click to edit label]"
   } ]
 }
