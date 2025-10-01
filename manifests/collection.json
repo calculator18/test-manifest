@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://calculator18.github.io/test-manifest/manifests/manifest3.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://calculator18.github.io/test-manifest/manifests/manifest4.json",
+    "label" : "This is Meghan's map manifest!"
   } ]
 }
