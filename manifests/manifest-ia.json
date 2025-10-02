@@ -122,7 +122,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaGl4c29uXzkxNSUyQkpQMiUyQkpQMi4w~drupal_d8_default/full/full/0/default.jpg",
+          "@id" : "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaGl4c29uXzkxNSUyQkpQMiUyQkpQMi4w~drupal_d8_default/full/full/90/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
