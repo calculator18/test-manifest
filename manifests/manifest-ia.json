@@ -1,0 +1,178 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://calculator18.github.io/test-manifest/manifests/manifest-ia.json",
+  "@type" : "sc:Manifest",
+  "label" : "A short journey through Johnson County, Iowa",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This is a collection of maps from the Iowa Digital Library.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Add an attribution here? Is it IDL attribution?",
+  "sequences" : [ {
+    "@id" : "http://0b0a1bbc-4eb0-4d00-a1ff-04918341495d",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://94842956-4b99-4c3b-aaf7-d40d8ef7bd19",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 7842,
+      "width" : 12949,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://12420d43-2b5f-4c41-b96e-ba55c68de7cd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBc2hlZXRtYXBzXzgzJTJCSlAyJTJCSlAyLjA%3D~drupal_d8_default/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBc2hlZXRtYXBzXzgzJTJCSlAyJTJCSlAyLjA%3D~drupal_d8_default",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 100000000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 7842,
+          "width" : 12949
+        },
+        "on" : "http://94842956-4b99-4c3b-aaf7-d40d8ef7bd19"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://80258630-0eb8-497c-926e-d7b361dd31e0",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4922,
+      "width" : 4173,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://674077df-78dc-48be-867e-711927802696",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaGl4c29uXzkwNSUyQkpQMiUyQkpQMi4w~drupal_d8_default/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaGl4c29uXzkwNSUyQkpQMiUyQkpQMi4w~drupal_d8_default",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 20539506,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 4922,
+          "width" : 4173
+        },
+        "on" : "http://80258630-0eb8-497c-926e-d7b361dd31e0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c8730091-3bd5-4006-86cb-55d08076ca22",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5082,
+      "width" : 6591,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://69f6e592-6a22-45a3-993e-a7c747393a32",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaGl4c29uXzkwNiUyQkpQMiUyQkpQMi4w~drupal_d8_default/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaGl4c29uXzkwNiUyQkpQMiUyQkpQMi4w~drupal_d8_default",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 33495462,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5082,
+          "width" : 6591
+        },
+        "on" : "http://c8730091-3bd5-4006-86cb-55d08076ca22"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8ef98057-8e64-4a61-b42c-f5fcfaa55f55",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5082,
+      "width" : 6592,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://79302513-976e-446a-9664-f7304baa3cd1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaGl4c29uXzkxNSUyQkpQMiUyQkpQMi4w~drupal_d8_default/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaGl4c29uXzkxNSUyQkpQMiUyQkpQMi4w~drupal_d8_default",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 33500544,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5082,
+          "width" : 6592
+        },
+        "on" : "http://8ef98057-8e64-4a61-b42c-f5fcfaa55f55"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6f1b642f-d1ac-4d62-a843-15bd9c1babca",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5083,
+      "width" : 6592,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9e6bc998-691c-46a3-a28b-8d529be16919",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaGl4c29uXzkwOCUyQkpQMiUyQkpQMi4w~drupal_d8_default/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digital.lib.uiowa.edu/iiif/2/L19mb3htbC9kYXRhc3RyZWFtL3VpJTNBaGl4c29uXzkwOCUyQkpQMiUyQkpQMi4w~drupal_d8_default",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 33507136,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5083,
+          "width" : 6592
+        },
+        "on" : "http://6f1b642f-d1ac-4d62-a843-15bd9c1babca"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
